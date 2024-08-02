@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Video_Player\obj\Debug\Video_Player.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Video_Player\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Video_Player\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Video_Player\obj\Debug\Video_Player_MarkupCompile.cache
+C:\Users\Admin\source\repos\Video_Player\obj\Debug\Video_Player_MarkupCompile.lref
+C:\Users\Admin\source\repos\Video_Player\bin\Debug\Video_Player.exe.config
+C:\Users\Admin\source\repos\Video_Player\bin\Debug\Video_Player.exe
+C:\Users\Admin\source\repos\Video_Player\bin\Debug\Video_Player.pdb
+C:\Users\Admin\source\repos\Video_Player\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Video_Player\obj\Debug\Video_Player.g.resources
+C:\Users\Admin\source\repos\Video_Player\obj\Debug\Video_Player.Properties.Resources.resources
+C:\Users\Admin\source\repos\Video_Player\obj\Debug\Video_Player.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Video_Player\obj\Debug\Video_Player.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Video_Player\obj\Debug\Video_Player.exe
+C:\Users\Admin\source\repos\Video_Player\obj\Debug\Video_Player.pdb
