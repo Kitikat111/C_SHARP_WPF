@@ -1,0 +1,24 @@
+﻿<Window x:Class="Tag.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tag"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="500">
+    <UniformGrid Name="gameBoard" Rows="4" Columns="4">
+        <StackPanel Margin="0,0,-375,-363">
+            <StackPanel.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FF61B252" Offset="0"/>
+                </RadialGradientBrush>
+            </StackPanel.Background>
+            <Label Content="Print size of matrix NxN" Height="43" Width="300" Margin="0,130,0,0" FontFamily="BankGothic Lt BT" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="gridSizeInput" Text="4" Width="120" Height="100" TextAlignment="Center" FontFamily="MV Boli" FontSize="55" Background="#FFDCF9C5" Margin="0,10,0,0" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" BorderBrush="Black" BorderThickness="3,3,3,3"/>
+            <Button Content="Start" Click="ApplyButton_Click" Width="190" Height="60" FontSize="48" FontFamily="Broadway" FontWeight="Bold" BorderBrush="#FF08FA00" BorderThickness="2,2,2,2" Background="#FFA2F493" Margin="0,20,0,0"/>
+        </StackPanel>
+        
+    </UniformGrid>
+
+</Window>

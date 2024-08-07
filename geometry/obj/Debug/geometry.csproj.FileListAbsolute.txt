@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\geometry\obj\Debug\geometry.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\geometry\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\geometry\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\geometry\obj\Debug\geometry_MarkupCompile.cache
+C:\Users\Admin\source\repos\geometry\obj\Debug\geometry_MarkupCompile.lref
+C:\Users\Admin\source\repos\geometry\bin\Debug\geometry.exe.config
+C:\Users\Admin\source\repos\geometry\bin\Debug\geometry.exe
+C:\Users\Admin\source\repos\geometry\bin\Debug\geometry.pdb
+C:\Users\Admin\source\repos\geometry\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\geometry\obj\Debug\geometry.g.resources
+C:\Users\Admin\source\repos\geometry\obj\Debug\geometry.Properties.Resources.resources
+C:\Users\Admin\source\repos\geometry\obj\Debug\geometry.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\geometry\obj\Debug\geometry.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\geometry\obj\Debug\geometry.exe
+C:\Users\Admin\source\repos\geometry\obj\Debug\geometry.pdb
